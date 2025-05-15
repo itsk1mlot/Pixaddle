@@ -22,7 +22,7 @@
           더 많은 기능이 추가될 예정입니다.
         </li>
         <li>
-          사용 중 오류나 문제가 발생할 경우 <a href="https://github.com/itsk1mlot/Pixaddle-Issues/issues">Github Issue</a> 또는
+          사용 중 오류나 문제가 발생할 경우 <a href="https://github.com/itsk1mlot/Pixaddle/issues">Github Issue</a> 또는
           <a href="https://discord.gg/mxPnHvb3Zp">Discord</a>를 통해 알려주세요.
         </li>
         <li>
