@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Pretendard;
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url("./assets/font/Pretendard.woff2") format("font-woff2-variations");
+}
+
+* {
+  font-family: 'Pretendard' !important;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+*:focus {
+  outline: none;
+}
